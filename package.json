@@ -6,9 +6,14 @@
   "scripts": {
     "dev": "turbo run dev --parallel",
     "build": "turbo run build",
-    "lint": "turbo run lint"
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=@baitasolucoes-ui/docs && changeset publish"
   },
   "devDependencies": {
     "turbo": "^1.6.3"
+  },
+  "dependencies": {
+    "@changesets/cli": "^2.26.0"
   }
 }
