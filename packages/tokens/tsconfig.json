@@ -1,0 +1,4 @@
+{
+  "extends": "@baitasolucoes-ui/ts-config/base.json",
+  "include": ["./src"]
+}
