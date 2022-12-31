@@ -1,0 +1,2 @@
+import{A as t}from"./index.1847468a.js";import"./index.31487494.js";import"./iframe.103bb727.js";import"./index.fd3dc34d.js";import"./jsx-runtime.f780ab3e.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gzmael.png",alt:"Jezmael Basilio"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.403d8a25.js.map
