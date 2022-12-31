@@ -1,5 +1,12 @@
 # @baitasolucoes-ui/tokens
 
+## 1.2.0
+
+### Minor Changes
+
+- Adding Toast and Tooltip components
+- Removing _test_ color on tokens
+
 ## 1.1.0
 
 ### Minor Changes
